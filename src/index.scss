@@ -12,10 +12,14 @@
   @include poppins-regular;
 }
 
-
-
-
-
+.file-namer-wrapper {
+  margin-top: calc(1.1vw + 1.1vh);
+  display: flex;
+  flex-direction: column;
+  gap: calc(1.1vw + 1.1vh);
+  align-items: center;
+  justify-content: center;
+}
 
 
 
