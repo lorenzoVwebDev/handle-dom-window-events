@@ -9,6 +9,7 @@
     "react-jss": "^10.10.0",
     "react-proptypes": "^1.0.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.83.1",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
