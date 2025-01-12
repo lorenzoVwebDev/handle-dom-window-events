@@ -1,0 +1,12 @@
+.git-repository-header {
+  background-color: white;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  & a {
+    color: black;
+  }
+  border-bottom: solid 1px;
+}
