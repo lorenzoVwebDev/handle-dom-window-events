@@ -5,7 +5,9 @@ function App() {
   return (
     <>
       <GitRepositoryHeader/>
-      <FileNamer/>
+      <div className="file-namer-container">
+        <FileNamer/>
+      </div>
     </>
   );
 }
