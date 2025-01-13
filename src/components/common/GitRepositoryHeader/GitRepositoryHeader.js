@@ -1,9 +1,9 @@
 import React from 'react';
-import './GitRepositoryHeader.css';
+import './GitRepositoryHeader.scss';
 
 function GitRepositoryHeader() {
   return (<>
-    <header className="git-repository-header">Git repository 👉🏻<a href="https://github.com/lorenzoVwebDev/text-analyzer">Text-Analyzer</a></header>
+    <header className="git-repository-header">Git repository 👉🏻<a href="https://github.com/lorenzoVwebDev/file-creator">Text-Analyzer</a></header>
   </>)
 }
 

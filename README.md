@@ -1,7 +1,13 @@
 
 # Hadle Dom And Window Events
   Project In Development ⚠️
-## Features 
+  A file creator program that allows the client to:
+  - define the file's extension
+  - write the file content
+  - request how many files he needs
+## Features
+- [useState used to set the alert boolean that is read by Synthetic Event Handlers](https://github.com/lorenzoVwebDev/file-creator/blob/master/src/components/FileNamer/FileNamer.js)
+- [useEffect used to add event listeners to the window object when the alert state change (dependecy's usage to set the state again)](https://github.com/lorenzoVwebDev/file-creator/blob/master/src/components/FileNamer/FileNamer.js)
 
 ### You can find this project here on my personal portfolio --> [lorenzo-viganego.com](https://www.lorenzo-viganego.com/#portfolio)
 --
